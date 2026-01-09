@@ -1,0 +1,42 @@
+[
+  {
+    "id": "B001",
+    "title": "Amelia Bedelia I Can Read",
+    "books": 32,
+    "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEil5f67XI21T2TUllhe-AtVgVHnPNj-rb6FSz8Ms7ma3D5JzJe2YM-5Z15cSWp48NxjkjJK21xzjiGwkseIZHK1v7TG_qsKRUumiCrvZ5ys0n782DZihyphenhyphenhkdYAq6uEiEPcSL18oXUeqJjM/s320/07ec28d0e537aff1d72d4910f580e6bf+%25282%2529.jpg",
+    "link": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEil5f67XI21T2TUllhe-AtVgVHnPNj-rb6FSz8Ms7ma3D5JzJe2YM-5Z15cSWp48NxjkjJK21xzjiGwkseIZHK1v7TG_qsKRUumiCrvZ5ys0n782DZihyphenhyphenhkdYAq6uEiEPcSL18oXUeqJjM/s320/07ec28d0e537aff1d72d4910f580e6bf+%25282%2529.jpg",
+    "youtube": "8PV2AxOVWi0",
+    "price": 4,
+    "item": "RM4-set"
+  },
+  {
+    "id": "B002",
+    "title": "All Aboard Reading",
+    "books": 25,
+    "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxLpDmJOAq3B-NF1f43eybIMedAHttDtHq4-5NUp_y9u-vSpfvkVZqzwC6G-Wll5Arzz500eEAOA9t2oocddQIjNY5hOaBMp1zBk8-ohPUBCdr3xeWLAFXj1-9RtcXfIcADLO2v9KwDak/s0/tpbLmnUec8+%25282%2529.jpg",
+    "link": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxLpDmJOAq3B-NF1f43eybIMedAHttDtHq4-5NUp_y9u-vSpfvkVZqzwC6G-Wll5Arzz500eEAOA9t2oocddQIjNY5hOaBMp1zBk8-ohPUBCdr3xeWLAFXj1-9RtcXfIcADLO2v9KwDak/s0/tpbLmnUec8+%25282%2529.jpg",
+    "youtube": "jvM9vYHPifM",
+    "price": 4,
+    "item": "RM4-set"
+  },
+  {
+    "id": "B003",
+    "title": "Dora Phonics",
+    "books": 12,
+    "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmk3mnVmYUeTKnZK1oh7ryCqZmUUqktfSP_PgG_VmoM1dzI1fMQLPFxboa_JxvynN3Hm1pVgRwbBiSwXv7oTLez2T0f6F_JuWe99HUn5pJWYcpwa6_qq9Jo1-ehZrH2EAtH2qN3RufTeA/s0/3.jpg",
+    "link": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmk3mnVmYUeTKnZK1oh7ryCqZmUUqktfSP_PgG_VmoM1dzI1fMQLPFxboa_JxvynN3Hm1pVgRwbBiSwXv7oTLez2T0f6F_JuWe99HUn5pJWYcpwa6_qq9Jo1-ehZrH2EAtH2qN3RufTeA/s0/3.jpg",
+    "youtube": "Deo9T7y7WiQ",
+    "price": 4,
+    "item": "RM4-set"
+  },
+  {
+    "id": "B004",
+    "title": "Magic School Bus Phonics",
+    "books": 12,
+    "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibINrG7nzC6sl2jSYBy1EIT5UIimtGQs1K1Bbuj3UgIEY4yY7RfLKqVi0OeHyiCUkQKBwh7bwVOyTR60gGcEIvjT1kjlNDF6BUTltFEIlwORGP3TcES1ZYD_p6ArgVuz958HWmph8Yj4w253KUlKQtqWTNwhZZoiwHFX7vt9caxyEfHbStY4OFj1tdAKpw/s1600/magic%20school%20bus%20phonic%20fun%20set.jpg",
+    "link": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibINrG7nzC6sl2jSYBy1EIT5UIimtGQs1K1Bbuj3UgIEY4yY7RfLKqVi0OeHyiCUkQKBwh7bwVOyTR60gGcEIvjT1kjlNDF6BUTltFEIlwORGP3TcES1ZYD_p6ArgVuz958HWmph8Yj4w253KUlKQtqWTNwhZZoiwHFX7vt9caxyEfHbStY4OFj1tdAKpw/s1600/magic%20school%20bus%20phonic%20fun%20set.jpg",
+    "youtube": "GVUyVBXO1Iw",
+    "price": 4,
+    "item": "RM4-set"
+  }
+]
