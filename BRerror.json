@@ -38,5 +38,120 @@
     "youtube": "GVUyVBXO1Iw",
     "price": 4,
     "item": "RM4-set"
+  },
+  [
+  {
+    "id": "B005",
+    "title": "Magic School Bus Phonics",
+    "books": 12,
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibINrG7nzC6sl2jSYBy1EIT5UIimtGQs1K1Bbuj3UgIEY4yY7RfLKqVi0OeHyiCUkQKBwh7bwVOyTR60gGcEIvjT1kjlNDF6BUTltFEIlwORGP3TcES1ZYD_p6ArgVuz958HWmph8Yj4w253KUlKQtqWTNwhZZoiwHFX7vt9caxyEfHbStY4OFj1tdAKpw/s1600/magic%20school%20bus%20phonic%20fun%20set.jpg",
+    "price": "RM4/set",
+    "youtube": "GVUyVBXO1Iw"
+  },
+  {
+    "id": "B006",
+    "title": "My First Steps to Math",
+    "books": 10,
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqKvc4PPbSYspSYDk4JTTea90Yb15uwegNPCY1t0Nx0YDhJTaEtRx8cWAq65ydPVmx7rTXkmmNEgG_0bm7vUy7nGmz2zaYjiRpm2mZ3HpFmIpGV29FrGAjc2nwkyrtaVPBJGuMIVJ-IU0/s0/6.jpg",
+    "price": "RM4/set",
+    "youtube": "kM6S6zSvjk0"
+  },
+  {
+    "id": "B007",
+    "title": "My First Steps to Reading",
+    "books": 24,
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRGcRXjt1SdY1n21NYx6Ls3E9IUiXLFXGWJltK5nEKvpzdAfgnddFdCwJtGRROyhoLS6X2WIGANrdmG4Z73drZtd0vpPijgLqcmi1Z8ZayjULdS5PISIky45j48IyV8PKO-XBewUC9jsXSp6RHhqMfTaSMYMvcg8dRyVkE64137irtOXWKWp6_oL26JHZg/s320/59131.jpg",
+    "price": "RM4/set",
+    "youtube": "QBKhcocmw1E"
+  },
+  {
+    "id": "B008",
+    "title": "AlphaTales",
+    "books": 26,
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSeHA_v3BAUQTI9v8G6_C42VcB78FgI-k5liRh9HphUjkbE6-5WA-z_J6AgMvril3t2XlxJ9OXMVPHmCBDT294cmowbAdXpyhvAGaybGNU7NpEFJm8FH8QR-LmD_E8CfCtVsoZwBzrqUmPAhp1WiANaN3F6YMB_IZQWRHSYvf56VzpWkmeIZUbF09rHFiq/s320/Alpha%20Tales%203.jpg",
+    "price": "RM4/set",
+    "youtube": "Hss-Q9PfXLI"
+  },
+  {
+    "id": "B009",
+    "title": "Sight Word Tales",
+    "books": 25,
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfNB93f8jEC0VGmxyXA-b3SiWKLTVmUxw6qDVpppuD7MiCcAUWUmUPuCba4rfFEBP35qzgO5qkagAQafODNdTUYudjfIuqLgTy_EurxtlKxStj1HtozM2Y9crM3ca1lt9VWocrBOUPdfuqwWmPEUJG83xKfmtKuO3XHUhBj6cLyrCFgaQ7AYFnraCF4wop/s320/sight%20word%20tales%203.jpeg",
+    "price": "RM4/set",
+    "youtube": "DVTmvJq09H4"
+  },
+  {
+    "id": "B010",
+    "title": "Word Family Tales",
+    "books": 25,
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-JRkkjAaNkbRN1xVaQ6bAJH5S9sGqLjtvCOmKMSVqKB2STsyAoY0gTdGKEWBCBzamM0MdkY6MqGC37fgGqxAW_ECFTH9AKzi4Dk23MNiB7HoCbPn6o-OwbxdB0p4SbW__E7sYRYSqWk9Tt7rZ4ub9dDjeX2rZulSYvRqWdxq8TQxA0uto6dPjwgSCqSR1/s1600/word%20family%20tales.jpg",
+    "price": "RM4/set",
+    "youtube": "xk6OTTg4rpE"
+  },
+  {
+    "id": "B011",
+    "title": "Grammar Tales",
+    "books": 9,
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYbGqDBH9jzZ4nrcb6KZRM-27hatm1U1Q5ETFEQS8eSEyqbhqxLRMvxCc4rOXoqZnmqzAuuk4ARTCVUisuMfFriedLDrZUZQOat1sE3s0F2EwlsA9EKbyAlz2MGkh6zX954Qu-tXJ7sYyNYyKC8juUqlfMhkuyWcMJ918H9poIooj3x838XEKJuUQBFpqE/s1600/grammar%20tales.jfif",
+    "price": "RM4/set",
+    "youtube": "AtZ2yfgTky8"
+  },
+  {
+    "id": "B012",
+    "title": "Phonics Tales",
+    "books": 22,
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbh3zvz1cB5kqvzaw3yzpWrSlMk8OMdRhqIoffk1DjQQangJHgJHgj7VvWRNTx00nXk1oGLEiXIuyMW8v7NeRIE8PpSqc9CZxNLD5sxqn_TytCgMnx9Ua1FH48OcMiqoYwExO_gKGcZm67kaoAVsRcAibbRsOmN8GwNCtB2AiarNwi9WlKgQdPZjSpbwnh/s1600/Phonics%20Tales.jpg",
+    "price": "RM4/set",
+    "youtube": "keAVJmftedo"
+  },
+  {
+    "id": "B013",
+    "title": "First Little Readers B+C",
+    "books": 50,
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhYmBinoEJGs-vmDGWjSEhP5DwuDUCGS_DtSkfXmnjPH8z6eTrixAR6eR1kzUnOZWTWhjAhXqPG4Fj9Z8gdi2K7VzN1hqrXTowfCdAjPGxP0_CCL_HppCE_B_TZgEqKo_c2FRwwYxH5urKtLxWGw6-Pkd0edhczIq4Pv4lMXHVFxYG8hnZAmbu2EotrBX-/s1600/First%20little%20readers%202.jpg",
+    "price": "RM4/set",
+    "youtube": "4jp3zMJfuOA"
+  },
+  {
+    "id": "B014",
+    "title": "Harcourt Grade 1 Leveled Readers",
+    "books": 115,
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYkXyQC5byTp30QZ890cW8y6ilHaGYIzHUO46-sxBx_ujNJjRWFdTCNltRB4gdAsscOz_b-F9QKvD7PxlFKuGW8RH3jSgQuk13sJbtNULmAcS_d-V6_XrvOBPo9GECiY-rl3lN6_Ap6B4ykIMEW_pswaYjIC-cflAqYir4D-OQv7uRi7tQF7Cu3qI5I8ON/s320/Harcourt%20Grade%201%20Leveled%20Readers.jpg",
+    "price": "RM4/set",
+    "youtube": ""
+  },
+  {
+    "id": "B015",
+    "title": "I Am Science Reader",
+    "books": 10,
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwr-hLsnrikuuSFop0072Jvd2sZ27iXF1jSYFZX0EW86gb8Fu7Bm8LmNN44RZcLIW7OVji3a7oxHMiii_qBc05mI1L0wqDzR3DWDlI1f1XiTJFFfZ9IVAR3eNsKyFyfpT8F9G9ZdWPA9rGW0kEx96dk5ChyphenhyphenSVNklOyY1KQP39ALnBqU3ArVzEHb-M1gdLV/s1600/I%20am.jpg",
+    "price": "RM4/set",
+    "youtube": "EjeKYgkVBXU"
+  },
+  {
+    "id": "B016",
+    "title": "Oxford Let's Go Reader",
+    "books": 56,
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHzcCxEb-knOm9EawnfmnJFtGmtQUrnb35stSNAEihEt-dZ_afz7NSEfiZ-iwYpX6oX4KPv0oKUC7__vNrFcAKz21tA7znEj2uzM4-1oKvasInGBvoR2mCAyNDUDSgaDZL5y0PUdJ77XNmDKoG3WoMf1z61kPtxsHLhFdTkQ4lwsolSQXC0_BhDQPntrL1/s320/6-Level-Set-Oxford-Let-s-Go-Student-Book-4th-Edition-the-New-Edition-of-the.jpg",
+    "price": "RM4/set",
+    "youtube": "fuLM-wtdhD4"
+  },
+  {
+    "id": "B017",
+    "title": "Journeys by Harcourt",
+    "books": 6,
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhws3adnuuCsll_z2hMHDhpz9Bt_NWh3jBdSzJr7wsGAPRJ7Eh9fRmAomZqRNdBkGt5QLvwBT7AzYcrkN8jEolqYYKzEj_8XACi_U0XnZF0Q8ovlw2Ii75LnVtENofH60j-geojl5D9PFyfp__uLeouvbif_VMnev8shHGXXGQvQK0LzDlPZXkERcBfgxUi/s1600/Journeys%20by%20Harcourt.jpg",
+    "price": "RM4/set",
+    "youtube": ""
+  },
+  {
+    "id": "B018",
+    "title": "Word Builders Series",
+    "books": 20,
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEabcdefghijk12345.jpg",
+    "price": "RM4/set",
+    "youtube": "abcd1234xyz"
   }
 ]
+
+
